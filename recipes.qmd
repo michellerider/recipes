@@ -1,7 +1,9 @@
 ---
-title: "recipes.qmd"
+title: "Vegan Recipes"
+author: Michelle
 format: html
 editor: visual
+theme: morph
 ---
 
 # Recipes
