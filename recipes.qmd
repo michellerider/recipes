@@ -1,0 +1,11 @@
+---
+title: "recipes.qmd"
+format: html
+editor: visual
+---
+
+# Recipes
+
+## Introduction Note
+
+Welcome to our culinary treasure trove! Here, you'll discover a delightful array of recipes to tantalize your taste buds and inspire your inner chef. From mouthwatering mains to delectable desserts, our repository is a haven for food enthusiasts of all levels. Whether you're seeking quick weeknight meals or gourmet delights for special occasions, you're sure to find something to satisfy your cravings. So grab your apron, sharpen your knives, and let's embark on a delicious journey together!
